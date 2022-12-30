@@ -11,4 +11,4 @@ class Player:
     def choose_gesture(self):
         self.choose_gesture = random.choice(self.gestures)
         print(f"{self.name} has chosen {self.chosen_gesture} as their choice.")
-        pass
+        
