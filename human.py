@@ -10,4 +10,3 @@ class Human(Player):
         print(f"{self.name} has chosen {self.chosen_gesture} as their choice. ")
     
 
-
